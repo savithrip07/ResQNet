@@ -177,3 +177,18 @@ This project is open source and available under the MIT License.
 ## Support
 
 For support or questions, please contact the development team or create an issue in the repository.
+
+## My Contribution
+
+As part of the ResQNet project, I was responsible for:
+
+- Designing and developing the Login page
+- Designing and developing the Signup page
+- Implementing form validation
+- Integrating authentication forms with Flask backend routes
+- Creating a responsive and user-friendly authentication interface
+
+### Files Worked On
+- templates/login.html
+- templates/signup.html
+- Related CSS and frontend assets
