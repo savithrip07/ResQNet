@@ -1,3 +1,22 @@
+> **Note:** This repository is a personal fork of the original ResQNet project. My primary contributions focused on the user authentication interface and frontend user experience.
+
+## My Contribution
+
+As part of the ResQNet project, I was responsible for:
+
+- Designing and developing the Login page
+- Designing and developing the Signup page
+- Improving the user authentication interface
+- Assisting with frontend styling and user experience enhancements
+
+### Files Worked On
+
+- `templates/login.html`
+- `templates/signup.html`
+- Related frontend assets and styling files
+
+---
+
 # ResQNet - Emergency Response System
 
 A comprehensive emergency response web application built with Flask that provides SOS alerts, location sharing, user management, and emergency marketplace functionality.
@@ -177,17 +196,3 @@ This project is open source and available under the MIT License.
 ## Support
 
 For support or questions, please contact the development team or create an issue in the repository.
-
-## My Contribution
-
-As part of the ResQNet project, I was responsible for:
-
-- Designing and developing the Login page
-- Designing and developing the Signup page
-- Implementing form validation
-- Creating a responsive and user-friendly authentication interface
-
-### Files Worked On
-- templates/login.html
-- templates/signup.html
-- Related CSS and frontend assets
