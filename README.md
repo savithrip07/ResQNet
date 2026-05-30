@@ -185,7 +185,6 @@ As part of the ResQNet project, I was responsible for:
 - Designing and developing the Login page
 - Designing and developing the Signup page
 - Implementing form validation
-- Integrating authentication forms with Flask backend routes
 - Creating a responsive and user-friendly authentication interface
 
 ### Files Worked On
